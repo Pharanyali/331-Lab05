@@ -71,7 +71,6 @@ const hasNextPage = computed(() => {
 
 <style scoped>
 
-
 .pagination {
   display: flex;
   width: 290px;
